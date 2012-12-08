@@ -13,6 +13,7 @@ https://twitter.com/zirrusc
 * アプリケーションの名前 : Ngen Utility
 * アセンブリ名 : ngenutil.exe
 * 著作 : zirrusc
+* ライセンス : GPL v3
 * 言語 : 日本語、英語 (Japanese, English)
 * バージョン : 1
 * プラットフォーム : Windows Vista以上
