@@ -3,6 +3,13 @@
 
 Ngen Utility
 
+.NET Framework に付属するネイティブイメージジェネレーター(Ngen.exe)をGUIにしたものです。
+
+https://sites.google.com/site/zirrusc/app/ngenutil
+
+https://twitter.com/zirrusc
+
+
 * アプリケーションの名前 : Ngen Utility
 * アセンブリ名 : ngenutil.exe
 * 著作 : zirrusc
